@@ -1,2 +1,2 @@
-# belajar-git
-Belajar Git
+# Responsive-design
+Responsive-design
